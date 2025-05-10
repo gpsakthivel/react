@@ -10,7 +10,7 @@
 # Node
 **/node_modules
 **/package-lock.json
-# **/README.md
+**/README.md
 **/dist
 **/dist-ssr
 **/*.local
@@ -27,4 +27,4 @@
 
 # Others
 /.idea
-# **/.gitignore
+**/.gitignore
