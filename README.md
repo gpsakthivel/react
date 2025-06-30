@@ -4,12 +4,8 @@
   - javascript-mastery
     - my-first-react-app
     - Reference: https://www.youtube.com/watch?v=dCLhUialKPQ
-  - tech-with-tim
-    - movies-tutorial
-    - Reference: https://www.youtube.com/watch?v=G6D9cBaLViA
-  - web-dev-simplified
-    - to-do app
-    - Reference: https://www.youtube.com/watch?v=Rh3tobg7hEo
+  - tech-with-tim - [movies-tutorial](https://www.youtube.com/watch?v=G6D9cBaLViA)
+  - web-dev-simplified - [to-do app](https://www.youtube.com/watch?v=Rh3tobg7hEo)
   - hello-world
     - using create-react-app
     ```bash
