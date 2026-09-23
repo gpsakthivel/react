@@ -1,0 +1,68 @@
+import type { Product } from '../types';
+
+export const products: Product[] = [
+  {
+    id: 1,
+    name: 'Wireless Headphones',
+    description: 'Premium noise-cancelling over-ear headphones with 30-hour battery life.',
+    price: 79.99,
+    image: 'https://placehold.co/300x200?text=Headphones',
+    category: 'Electronics',
+  },
+  {
+    id: 2,
+    name: 'Mechanical Keyboard',
+    description: 'Compact TKL mechanical keyboard with RGB backlighting and tactile switches.',
+    price: 59.99,
+    image: 'https://placehold.co/300x200?text=Keyboard',
+    category: 'Electronics',
+  },
+  {
+    id: 3,
+    name: 'USB-C Hub',
+    description: '7-in-1 USB-C hub with HDMI, SD card reader, and 100W pass-through charging.',
+    price: 34.99,
+    image: 'https://placehold.co/300x200?text=USB-C+Hub',
+    category: 'Electronics',
+  },
+  {
+    id: 4,
+    name: 'Running Shoes',
+    description: 'Lightweight breathable running shoes with cushioned sole for everyday training.',
+    price: 89.99,
+    image: 'https://placehold.co/300x200?text=Running+Shoes',
+    category: 'Sports',
+  },
+  {
+    id: 5,
+    name: 'Yoga Mat',
+    description: 'Non-slip eco-friendly yoga mat, 6mm thick with carrying strap.',
+    price: 24.99,
+    image: 'https://placehold.co/300x200?text=Yoga+Mat',
+    category: 'Sports',
+  },
+  {
+    id: 6,
+    name: 'Stainless Water Bottle',
+    description: 'Insulated 750ml stainless steel bottle — keeps drinks cold 24h or hot 12h.',
+    price: 19.99,
+    image: 'https://placehold.co/300x200?text=Water+Bottle',
+    category: 'Sports',
+  },
+  {
+    id: 7,
+    name: 'Desk Lamp',
+    description: 'LED desk lamp with touch dimmer, USB charging port and adjustable neck.',
+    price: 29.99,
+    image: 'https://placehold.co/300x200?text=Desk+Lamp',
+    category: 'Home',
+  },
+  {
+    id: 8,
+    name: 'Scented Candle Set',
+    description: 'Set of 3 hand-poured soy wax candles — lavender, vanilla, and eucalyptus.',
+    price: 22.99,
+    image: 'https://placehold.co/300x200?text=Candles',
+    category: 'Home',
+  },
+];
